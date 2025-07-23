@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "prompt-improver": {
+      "command": "python",
+      "args": ["main.py"],
+      "cwd": "/mnt/c/users/nvuji/onedrive/desktop/prompty-prototype"
+    }
+  }
+}

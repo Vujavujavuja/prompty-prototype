@@ -1,0 +1,12 @@
+[project]
+name = "prompty-prototype"
+version = "0.1.0"
+description = "MCP server for improving user prompts using AI sampling"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.0.0",
+    "uvicorn>=0.30.0",
+    "fastapi>=0.110.0",
+    "pydantic>=2.0.0"
+]
